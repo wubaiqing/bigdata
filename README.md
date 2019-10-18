@@ -3,7 +3,7 @@
 <table>
   <tbody>
     <tr width="400">
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="400">
         <a href="https://www.vuemastery.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuemastery.png">
         </a>

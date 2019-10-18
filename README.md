@@ -2,7 +2,7 @@
 <!--gold start-->
 <table>
   <tbody>
-    <tr>
+    <tr width="400">
       <td align="center" valign="middle">
         <a href="https://www.vuemastery.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuemastery.png">

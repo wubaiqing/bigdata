@@ -7,3 +7,9 @@
 | 业务组件平台 UI 端的 socket 通信 |                李明月                    | 通过 Socket/IPC 让 UI 界面使用 xterminal 实时获取 server 端的区块安装情况                                              |
 | block 批量下载，图片上传         |               常文霞               | 如何在前端项目的 package.json 中做配置以便批量下载区块                                                                 |
 | 业务组件平台 UI 端的基础实现     |             杨一帆                    | 将区块的截图上传到七牛云的最佳实践业务组件平台 UI 端的整体技术实现方式，以及graphQl 如何与之配合，完整基础的 UI 端功能 |
+
+<style>
+table {
+  font-size: 20px;
+  }
+</style>
